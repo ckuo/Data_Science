@@ -23,5 +23,3 @@
 - Answer customers’ questions and build ongoing relationship.
 - Resolve customers’ complaints in a professional manner.
 - Create an employee procedure handbook for new incoming employees.
-
-## Projects
