@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, R
 
 ## Education					       	
-- M.S., Business Analytics	| THult International Business School (_August 2024_)	 			        		
+- M.S., Business Analytics	| Hult International Business School (_August 2024_)	 			        		
 - B.A., Economic | University of California, Davis (_June 2014_)
 
 ## Work Experience
@@ -23,5 +23,3 @@
 - Answer customers’ questions and build ongoing relationship.
 - Resolve customers’ complaints in a professional manner.
 - Create an employee procedure handbook for new incoming employees.
-
-## Projects
